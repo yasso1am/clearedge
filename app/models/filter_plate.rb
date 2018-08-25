@@ -1,0 +1,2 @@
+class FilterPlate < ApplicationRecord
+end

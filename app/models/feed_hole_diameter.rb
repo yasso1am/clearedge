@@ -1,0 +1,2 @@
+class FeedHoleDiameter < ApplicationRecord
+end

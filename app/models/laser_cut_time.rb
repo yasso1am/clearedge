@@ -1,0 +1,2 @@
+class LaserCutTime < ApplicationRecord
+end

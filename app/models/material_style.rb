@@ -1,0 +1,2 @@
+class MaterialStyle < ApplicationRecord
+end
